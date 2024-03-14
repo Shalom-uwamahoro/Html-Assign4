@@ -152,5 +152,60 @@ margin-left: 10%;
     padding-top: 20%;
 }
 
+#sec4{
+margin-left: 0%;
+margin-top: 5%;
+}
+
+#girlside{
+    display: flex;
+    gap: 20%;
+}
+
+#img4{
+    width: 800px;
+    height: 700px;
+}
+#text4{
+    margin-top:20% ;
+}
+
+#h2{
+    font-size: 50px;
+}
+
+#shop4{
+    color: black;
+}
+
+#autumn{
+    margin-left: 50%;
+    font-size: 30px;
+}
+
+#sec5{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+#pics{
+    display: flex;
+    gap: 7%;
+}
+
+#img5a{
+    width: 400px;
+    height: 400px;
+}
+
+#img5b{
+    width: 400px;
+    height: 400px;
+}
+
+#img5c{
+    width: 400px;
+    height: 600px;
+}
 
 
