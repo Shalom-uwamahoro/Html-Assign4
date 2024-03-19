@@ -9,7 +9,7 @@ padding: 10px;
 
 .nava{
     color: white;
-    text-decoration: none;
+    
     cursor: pointer;
 
 }
@@ -25,7 +25,6 @@ padding: 10px;
 .navb{
     
 color: black;
-text-decoration: none;
 font-size: 20px;
 margin-top: 1%;
 cursor: pointer;
@@ -34,7 +33,7 @@ cursor: pointer;
 .navbb{
     font-size: 40px;
     color: black;
- text-decoration: none;
+ 
 
 }
 
@@ -90,6 +89,11 @@ cursor: pointer;
     margin-top: 10%;
 }
 
+#shoeside{
+    display: flex;
+    gap: 10%;
+    margin-top: 10%;
+}
 
 .baga{
     width: 200px;
@@ -200,6 +204,7 @@ margin-right: 7%;
     gap: 7%;
 }
 
+
 #img5a{
     width: 400px;
     height: 400px;
@@ -222,11 +227,9 @@ margin-right: 7%;
 
 #follow{
     margin-left: 40%;
-}
-
-#follow{
     font-size: 20px;
 }
+
 
 #sec6{
     display: flex;
@@ -243,7 +246,42 @@ margin-right: 7%;
     border-radius: 20px;
 }
 
-#footer{
-    border: solid black 1px;
-    margin-top: 10%;
+#button5{
+    border-radius: 2px;
+    padding: 10px 20px;
+    color: white;
+    background-color: black;
+    cursor: pointer;
 }
+
+#footer1{
+ 
+    margin-top: 10%;
+    display: flex;
+    gap:10%;
+    margin-left: 15%;
+}
+
+
+#footer2{
+   
+    margin-top: 0%;
+    margin-left: 15%;
+}
+
+#footer3{
+    
+    margin-top: 1%;
+    display: flex;
+    gap:25%;
+    margin-left: 15%;
+}
+
+
+
+
+
+@media all and (min-device-width:280px) and (max-device-width: 1020px) {
+        }
+        
+    
