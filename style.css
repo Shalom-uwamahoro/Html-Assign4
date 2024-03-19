@@ -100,6 +100,10 @@ cursor: pointer;
     height: 100px;
 
 }
+#button2{
+    width: 90px;
+    height:50px;
+}
 
 #sec3{
 margin-top: 5%;
@@ -292,7 +296,320 @@ margin-right: 7%;
 
 
 
-@media all and (min-device-width:280px) and (max-device-width: 1020px) {
+@media all and (min-device-width:280px) and (max-device-width: 1024px) {
+
+    body{
+        font-size: 10px;
+    }
+        
+    #navbar{
+
+        background-color: #008000;
+        display: flex;
+        
+        
+        
         }
+        
+        .nava{
+            color: white;
+            
+            cursor: pointer;
+        
+        }
+        
+        #nav{
+            display: flex;
+            
+            margin-top: 2%;
+            margin-left: 7%;
+            margin-right: 7%;
+        }
+        
+        .navb{
+            
+        color: black;
+        font-size: 10px;
+        margin-top: 1%;
+        cursor: pointer;
+        }
+        
+        .navbb{
+            font-size: 20px;
+            color: black;
+         
+        
+        }
+        
+        #sec1{
+           
+            display: flex;
+            gap: 3%;
+            margin-top: 10%;
+            margin-left: 4%;
+            margin-right: 4%;
+        }
+        
+        #capsize{
+            width: 100px;
+            height: 100px;
+           
+        }
+        
+        #shopcap{
+            color: black;
+            font-size: 10px;
+            cursor: pointer;
+        }
+        
+        #words{
+            font-size: 20px;
+            padding-top: 30%;
+            
+        }
+        
+        #sec2{
+           
+            margin-top: 5%;
+            display: flex;
+            gap: 1%;
+            margin-left: 2%;
+            margin-right: 2%;
+        
+        }
+        #blouse{
+            width: 200px;
+            height: 200px; 
+        }
+        
+        #blousetext{
+          font-size: 15px;
+          padding-left: 10%;
+        }
+        
+        #bagside{
+            display: flex;
+            gap: 2%;
+            margin-top: 10%;
+        }
+        
+        #shoeside{
+            display: flex;
+            gap: 2%;
+            margin-top: 10%;
+        }
+        
+        .baga{
+            width: 100px;
+            height: 50px;
+        
+        }
+        #button2{
+            width: 40px;
+            height:20px;
+        }
+        
+        #sec3{
+        margin-top: 5%;
+        margin-left: 7%;
+        margin-right: 7%;
+        }
+        
+        
+        #content1{
+            display: flex;
+            gap: 3%;
+        }
+        
+        #heading{
+            display: flex;
+            gap: 5%;
+        }
+        
+        .heads{
+            color: gray;
+            font-size: 30px;
+            
+            cursor: pointer;
+        }
+        .head{
+            color: black;
+            font-size: 30px;
+            padding-left: 15%;
+            cursor: pointer;
+        }
+        .girls{
+            width: 100px;
+            height: 180px;
+        }
+        
+        #content2{
+            display: flex;
+            gap: 8%;
+            margin-left: 5%;
+        }
+        
+        #content3{
+            display: flex;
+            gap:6%;
+            margin-top: 7%;
+            margin-left: 5%;
+        }
+        
+        .girlb{
+            width: 120px;
+            height: 100px;
+        }
+        .button1{
+            padding: 15px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .p{
+            padding-top: 20%;
+        }
+        
+        #sec4{
+        margin-left: 0%;
+        margin-top: 5%;
+        margin-right: 7%;
+        }
+        
+        #girlside{
+            display: flex;
+            gap: 10%;
+        }
+        
+        #img4{
+            width: 300px;
+            height: 200px;
+        }
+        #text4{
+            margin-top:20% ;
+        }
+        
+        #h2{
+            font-size: 30px;
+        }
+        
+        #shop4{
+            color: black;
+        }
+        
+        #autumn{
+            margin-left: 30%;
+            font-size: 20px;
+        }
+        
+        #sec5{
+            margin-left: 4%;
+            margin-right: 4%;
+            margin-top: 5%;
+        }
+        
+        #pics{
+            display: flex;
+            gap: 4%;
+        }
+        
+        
+        #img5a{
+            width: 150px;
+            height: 200px;
+        }
+        
+        #img5b{
+            width: 150px;
+            height: 200px;
+        }
+        
+        #img5c{
+            width: 150px;
+            height: 300px;
+        }
+        
+        #texts{
+            display: flex;
+            gap: 7%;
+        }
+        
+        #follow{
+            margin-left: 20%;
+            font-size: 20px;
+        }
+        
+        
+        #sec6{
+            display: flex;
+            gap: 2%;
+            margin-left: 7%;
+            margin-right: 7%;
+            margin-top: 2%;
+        }
+        
+        .img5b{
+            width: 100px;
+            height: 100px;
+            
+            border-radius: 20px;
+        }
+        
+        #place{
+            
+            border-top: none;
+            border-right: none;
+            border-left: none;
+            
+            
+        
+        }
+        
+        #button5{
+            border-radius: 2px;
+            padding: 10px 20px;
+            color: white;
+            background-color: black;
+            cursor: pointer;
+        }
+        #footer{
+            width: 140px;
+            height: 300px;
+        }
+        
+        #footer1{
+         
+            margin-top: 10%;
+            display: flex;
+            gap:5%;
+            margin-left: 7%;
+        }
+        
+        
+        #footer2{
+           
+            margin-top: 0%;
+            margin-left: 7%;
+        }
+        
+        #footer3{
+            
+            margin-top: 1%;
+            display: flex;
+            gap:10%;
+            margin-left: 7%;
+        }
+
+       #icons{
+        width: 120px;
+        height: 40px;
+       }
+ #payment{
+    width: 160px;
+        height: 40px;
+ }
+
+
+
+}
         
     
